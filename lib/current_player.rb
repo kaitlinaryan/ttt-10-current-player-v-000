@@ -4,6 +4,3 @@ def turn_count(board)
 if valid_move
   counter += 1
 end
-
-def current_player
-end
