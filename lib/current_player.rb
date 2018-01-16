@@ -3,4 +3,3 @@ def turn_count(board)
   count = 0
 if valid_move
   counter += 1
-end
